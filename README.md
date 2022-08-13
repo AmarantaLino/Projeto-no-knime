@@ -1,5 +1,5 @@
 # Projeto-no-knime
-Projeto de michine learning para treinar um modelo que identifica a porcentagem de chances de uma pessoa ter colesterol alto, utilizando uma base de dados do IBGE
+Projeto de machine learning para treinar um modelo que identifica a porcentagem de chances de uma pessoa ter colesterol alto, utilizando uma base de dados do IBGE
 com variáveis sobre qualidade e estilo de vida dos entrevistados.
 
 Ele deve ser executado no Knime, o resultado final é analizado em F-measure. Nesse projeto a porcentagem final foi 72%.
